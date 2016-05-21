@@ -1,0 +1,23 @@
+{
+  "name": "@enieber/div",
+  "version": "0.0.1",
+  "description": "divisibility for n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enieber Cunha <eniebercunha@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "divisibility",
+    "number"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/enieber/div.git"
+  },
+  "bugs": {
+    "url": "https://github.com/enieber/div/issues"
+  },
+  "homepage": "https://github.com/enieber/div#readme"
+}
